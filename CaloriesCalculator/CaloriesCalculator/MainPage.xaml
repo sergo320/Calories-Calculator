@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CaloriesCalculator.MainPage">
+
+    <StackLayout BackgroundColor="#FFF0F5">
+        <Entry Placeholder="weight" x:Name="weight" TextColor="#000000"/>
+        <Label Text="вес (в килограммах)" HorizontalOptions="Center" FontSize="20" TextColor="#000000"/>
+
+        <Entry Placeholder="height" x:Name="height" TextColor="#000000" />
+        <Label Text="рост (в сантиметрах)" HorizontalOptions="Center" FontSize="20" TextColor="#000000" />
+
+
+        <Entry Placeholder="age" x:Name="age" TextColor="#000000" />
+        <Label Text="возраст" HorizontalOptions="Center" FontSize="20" TextColor="#000000" />
+
+        <Picker x:Name="activity" SelectedIndexChanged="activity_coefficient" TextColor="#000000">
+            <Picker.Items>
+                <x:String>Физическая нагрузка минимальная или отсутствует</x:String>
+                <x:String>Тренировки средней тяжести 3 раза в неделю</x:String>
+                <x:String>Тренировки средней тяжести 5 раза в неделю</x:String>
+                <x:String>Интенсивные тренировки 5 раз в неделю</x:String>
+                <x:String>Тренировки каждый день</x:String>
+                <x:String>Интенсивные тренировки каждый день или по 2 раза в день</x:String>
+                <x:String>ежедневная работа + физическая работа</x:String>
+            </Picker.Items>
+        </Picker>
+        <Label Text="вид активности" HorizontalOptions="Center" FontSize="20" TextColor="#000000" />
+
+        <Picker x:Name="floorPicker" SelectedIndexChanged="floor" TextColor="#000000">
+            <Picker.Items>
+                <x:String>man</x:String>
+                <x:String>women</x:String>
+            </Picker.Items>
+        </Picker>
+        <Label Text="пол" HorizontalOptions="Center" FontSize="20" TextColor="#000000" />
+
+        <Button Text="посчитать" Clicked="count" Margin="10,50" BackgroundColor="#708090" TextColor="#000000"/>
+        <Frame HorizontalOptions="Center" BackgroundColor="#708090" WidthRequest="300"  HeightRequest="50" CornerRadius="10">
+            <Label Text="" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="30" TextColor="#000000" x:Name="result"/>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\bin\Debug\netstandard2.0\CaloriesCalculator.deps.json
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\bin\Debug\netstandard2.0\CaloriesCalculator.dll
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\bin\Debug\netstandard2.0\ref\CaloriesCalculator.dll
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\bin\Debug\netstandard2.0\CaloriesCalculator.pdb
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.csprojAssemblyReference.cache
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.AssemblyInfoInputs.cache
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.AssemblyInfo.cs
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.dll
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\ref\CaloriesCalculator.dll
+E:\Projects\xamarin\CaloriesCalculator\CaloriesCalculator\CaloriesCalculator\obj\Debug\netstandard2.0\CaloriesCalculator.pdb
